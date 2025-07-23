@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: NOASSERTION
 No Bullying License
 
 Copyright (c) 2025 LapisLabs Development Studio

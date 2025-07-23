@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: NOASSERTION
 Armor Stand Storage License
 
 Copyright (c) 2025 LapisLabs Development Studio

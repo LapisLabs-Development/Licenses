@@ -1,0 +1,15 @@
+Armor Stand Storage License
+
+Copyright (c) 2025 LapisLabs Development Studio
+
+Armor Stand Storage allows users to place items within Armor Stands in Minecraft.
+
+This plugin and its source code are proprietary and confidential.
+
+Access to the source code is restricted to authorized LapisLabs developers.
+
+Compiled builds may be used under the terms of your license agreement.
+
+Unauthorized copying, redistribution, modification, or reverse engineering is prohibited.
+
+For licensing inquiries, contact contact@lapislabs.dev.

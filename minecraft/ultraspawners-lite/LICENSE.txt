@@ -1,0 +1,13 @@
+UltraSpawners-LITE License
+
+Copyright (c) 2025 LapisLabs Development Studio
+
+This is the free version of UltraSpawners. It is provided under the terms of the LapisLabs Proprietary License.
+
+You may use this plugin's compiled builds for non-commercial purposes.
+
+Source code access is restricted to authorized LapisLabs developers only.
+
+Redistribution, modification, or reverse engineering of this plugin is prohibited.
+
+For licensing inquiries, contact contact@lapislabs.dev.

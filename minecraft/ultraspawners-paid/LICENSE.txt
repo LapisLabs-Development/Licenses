@@ -1,0 +1,13 @@
+UltraSpawners PAID License
+
+Copyright (c) 2025 LapisLabs Development Studio
+
+This is the premium version of UltraSpawners. The plugin and its source code are proprietary and confidential.
+
+Access to source code and development materials is limited to authorized LapisLabs developers.
+
+You may use compiled builds according to your purchase agreement.
+
+Unauthorized copying, redistribution, modification, or reverse engineering is strictly prohibited.
+
+For licensing inquiries, contact contact@lapislabs.dev.
